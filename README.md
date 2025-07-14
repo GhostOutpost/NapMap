@@ -1,7 +1,10 @@
 # NapMap
 NapMap - Sleep Debt Analyzer
+
 Author: Sohraab Singh Dhillon
+
 Institute: NIELIT Chandigarh
+
 Course: Python with Data Science (Summer Training 2025)
 
 🛏️ Project Overview
